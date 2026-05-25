@@ -1,7 +1,7 @@
 # Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 # Name : H GANANANTH
 # Register No : 212225230070
-# Date : 14.05.2026
+# Date : 21.05.2026
 # Aim
 To demonstrate how various prompting techniques such as query decomposition, decision making, semantic filtering, and answer engineering can be used to create structured content like reports, case studies, articles, or creative writing using AI models.
 
